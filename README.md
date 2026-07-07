@@ -112,5 +112,15 @@ Amazon-Sales-Analytics-Project
 - Cleaned Dataset
 
 ## Author
-- Deepu N
-Data Analyst | Python | SQL | Power BI | Excel
+
+**Deepu N**
+
+Aspiring Data Analyst
+
+Skills:
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
