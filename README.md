@@ -1,29 +1,29 @@
 # Amazon Sales Data Analytics Project
 ## Overview
-This project demonstrates an end-to-end Data Analytics workflow using Python, MySQL, Excel, DAX, and Power BI. 
-The objective was to transform raw Amazon sales data into meaningful business insights through data cleaning, SQL analysis, and interactive dashboards.
+- This project demonstrates an end-to-end Data Analytics workflow using Python, MySQL, Excel, DAX, and Power BI. 
+- The objective was to transform raw Amazon sales data into meaningful business insights through data cleaning, SQL analysis, and interactive dashboards.
 
 ## Dataset
-Source: (Kaggle) E-Commerce Sales Dataset / Amazon Sale Report.csv
-Records: 128,746
-Columns: 19 (after cleaning)
+- Source: (Kaggle) E-Commerce Sales Dataset / Amazon Sale Report.csv
+- Records: 128,746
+- Columns: 19 (after cleaning)
 
 ## Objectives
-Clean and preprocess raw sales data using Python
-Import cleaned data into MySQL
-Perform SQL-based business analysis
-Build interactive Power BI dashboards
-Generate business insights and recommendations
+- Clean and preprocess raw sales data using Python
+- Import cleaned data into MySQL
+- Perform SQL-based business analysis
+- Build interactive Power BI dashboards
+- Generate business insights and recommendations
 
 ## Tech Stack
-Python
-Pandas
-NumPy
-MySQL
-SQL
-Microsoft Excel
-Power BI
-DAX
+- Python
+- Pandas
+- NumPy
+- MySQL
+- SQL
+- Microsoft Excel
+- Power BI
+- DAX
 
 ## Project Workflow
 Raw Amazon Dataset
