@@ -5,6 +5,7 @@
 
 ## Dataset
 - Source: (Kaggle) E-Commerce Sales Dataset / Amazon Sale Report.csv
+- Note: The original dataset exceeded GitHub's file size limit. This repository includes the cleaned dataset used for analysis.
 - Records: 128,746
 - Columns: 19 (after cleaning)
 
@@ -92,6 +93,13 @@ Amazon-Sales-Analytics-Project
 - Merchant Standard shipments recorded the highest cancellation rate.
 - More than 85% of orders were successfully completed.
 - B2C customers contributed over 99% of total revenue.
+
+## Recommendations
+- Improve Merchant Standard fulfillment process to reduce cancellations.
+- Increase inventory in Maharashtra and Karnataka due to consistently high demand.
+- Focus marketing campaigns on B2C customers who generate over 99% of revenue.
+- Investigate return reasons to reduce Returned orders.
+- Expand delivery capacity in Bengaluru and Chennai.
 
 ## Skills Demonstrated
 - Data Cleaning
